@@ -1,0 +1,7 @@
+echo "# darcek-dorka" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Kub228/darcek-dorka.git
+git push -u origin main
